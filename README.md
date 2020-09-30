@@ -3,7 +3,9 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-Hello! 
+Hello! This is a personal project developed during my second year on college. I tried to reproduce the game Whac-a-Mole in arduino. Sadly i don't have the fisical pieces anymore... However, i do have the Tinkercad project still working!
+
+So, the game is pretty simple. A random light will turn on, and your job is to press the corresponding button in time. As you progress without mistakes, the lights will turn on faster and faster. If you miss, the progress will be reseted. 
 
 <p align="center"><img alt="Game overview" src="https://media.giphy.com/media/UypVRqCAb115ESERnk/source.gif" /></p>
 
